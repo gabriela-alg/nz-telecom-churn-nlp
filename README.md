@@ -118,7 +118,7 @@ playwright install chromium
 
 ## Key findings
 
-- Billing accuracy is the strongest and most cohesive churn-risk driver, with account, charge, bill, payment and credit all showing prevalence gaps above six percentage points between the high and low-risk classes.
+- Billing accuracy is the most cohesive churn-risk driver, with account, charge, bill, payment and credit all showing prevalence gaps above six percentage points between the high and low-risk classes.
 - Customer service quality is the cross-cutting factor: its failure markers (hour on hold, unanswered emails, repeated contacts) rank among the strongest high-risk terms, while its success markers (helpful, friendly, patient) dominate the low-risk vocabulary.
 - The two platforms produce opposite sentiment profiles from identical processing, reflecting the function of the platform rather than a difference in service quality, which is a methodological finding relevant to any study that mines public feedback.
 - Provider signatures are visible around a shared core: connectivity reliability for Spark, response times for One NZ, and fixed broadband and hold times for 2degrees.
