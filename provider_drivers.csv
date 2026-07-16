@@ -1,0 +1,46 @@
+term,high_risk_pct,low_risk_pct,difference,provider,high_risk_n,low_risk_n
+charge,20.7,0.0,20.7,Spark,295,19
+month,16.9,0.0,16.9,Spark,295,19
+day,20.3,5.3,15.1,Spark,295,19
+provider,14.9,0.0,14.9,Spark,295,19
+bad,19.7,5.3,14.4,Spark,295,19
+internet,13.6,0.0,13.6,Spark,295,19
+money,13.6,0.0,13.6,Spark,295,19
+year,17.3,5.3,12.0,Spark,295,19
+terrible,11.9,0.0,11.9,Spark,295,19
+customer service,27.5,15.8,11.7,Spark,295,19
+bill,11.2,0.0,11.2,Spark,295,19
+cancel,11.2,0.0,11.2,Spark,295,19
+customer,42.4,31.6,10.8,Spark,295,19
+number,10.5,0.0,10.5,Spark,295,19
+account,14.6,5.3,9.3,Spark,295,19
+time,29.3,8.0,21.3,One NZ,495,88
+customer,44.8,26.1,18.7,One NZ,495,88
+bad,21.0,2.3,18.7,One NZ,495,88
+provider,20.4,2.3,18.1,One NZ,495,88
+account,17.0,2.3,14.7,One NZ,495,88
+customer service,31.3,18.2,13.1,One NZ,495,88
+charge,15.2,2.3,12.9,One NZ,495,88
+month,18.0,5.7,12.3,One NZ,495,88
+hour,12.1,1.1,11.0,One NZ,495,88
+number,12.1,1.1,11.0,One NZ,495,88
+money,14.1,3.4,10.7,One NZ,495,88
+email,11.3,1.1,10.2,One NZ,495,88
+plan,23.4,13.6,9.8,One NZ,495,88
+terrible,8.9,0.0,8.9,One NZ,495,88
+day,17.6,9.1,8.5,One NZ,495,88
+bad,27.2,4.3,22.9,2degrees,540,46
+month,20.6,2.2,18.4,2degrees,540,46
+hour,18.9,4.3,14.5,2degrees,540,46
+email,14.3,0.0,14.3,2degrees,540,46
+account,16.5,2.2,14.3,2degrees,540,46
+cancel,13.5,0.0,13.5,2degrees,540,46
+customer,48.5,37.0,11.6,2degrees,540,46
+broadband,15.2,4.3,10.8,2degrees,540,46
+connection,12.6,2.2,10.4,2degrees,540,46
+day,17.8,8.7,9.1,2degrees,540,46
+mobile,11.3,2.2,9.1,2degrees,540,46
+hold,10.9,2.2,8.8,2degrees,540,46
+provider,17.4,8.7,8.7,2degrees,540,46
+internet,17.2,8.7,8.5,2degrees,540,46
+contract,10.4,2.2,8.2,2degrees,540,46

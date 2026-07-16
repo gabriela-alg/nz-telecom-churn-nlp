@@ -1,0 +1,642 @@
+feature,coefficient,model,feature_set
+able,-0.7764308330565115,logistic_regression,tfidf_plus_vader
+absolute,-1.2928112138872048,logistic_regression,tfidf_plus_vader
+account,1.4140463690978495,logistic_regression,tfidf_plus_vader
+action,0.2534518583069862,logistic_regression,tfidf_plus_vader
+additional,0.2816252894075607,logistic_regression,tfidf_plus_vader
+address,-0.7639432242735431,logistic_regression,tfidf_plus_vader
+advice,0.6220704171602124,logistic_regression,tfidf_plus_vader
+agent,0.7777615173487115,logistic_regression,tfidf_plus_vader
+answer,0.3699378960949068,logistic_regression,tfidf_plus_vader
+app,1.0395554407965037,logistic_regression,tfidf_plus_vader
+appalling,0.3556431564100217,logistic_regression,tfidf_plus_vader
+area,-2.38912658755463,logistic_regression,tfidf_plus_vader
+available,0.48572498166444833,logistic_regression,tfidf_plus_vader
+awful,0.38570951095296735,logistic_regression,tfidf_plus_vader
+bad,0.35565827006257994,logistic_regression,tfidf_plus_vader
+bad customer,0.4710412794257179,logistic_regression,tfidf_plus_vader
+bad experience,-0.07722683152280618,logistic_regression,tfidf_plus_vader
+bad service,0.3430818695987134,logistic_regression,tfidf_plus_vader
+balance,0.3276811266892284,logistic_regression,tfidf_plus_vader
+bank,0.6111545189871079,logistic_regression,tfidf_plus_vader
+basic,-0.13148508969560985,logistic_regression,tfidf_plus_vader
+big,-0.28601944799471024,logistic_regression,tfidf_plus_vader
+bill,0.6391040882061879,logistic_regression,tfidf_plus_vader
+billing,-0.07246610749035208,logistic_regression,tfidf_plus_vader
+branch,0.45713983486287674,logistic_regression,tfidf_plus_vader
+broadband,0.35393077257186434,logistic_regression,tfidf_plus_vader
+business,0.029285357331487235,logistic_regression,tfidf_plus_vader
+call,-0.1295492397722001,logistic_regression,tfidf_plus_vader
+cancel,0.3429325404568618,logistic_regression,tfidf_plus_vader
+cancel account,0.20957622268389284,logistic_regression,tfidf_plus_vader
+cancel plan,0.11103842279729913,logistic_regression,tfidf_plus_vader
+cancel service,0.06492748340203332,logistic_regression,tfidf_plus_vader
+cancellation,0.31456442366628184,logistic_regression,tfidf_plus_vader
+card,0.1673474484475121,logistic_regression,tfidf_plus_vader
+care,0.43960658207935616,logistic_regression,tfidf_plus_vader
+case,0.5024910098858041,logistic_regression,tfidf_plus_vader
+center,-0.30770896747763693,logistic_regression,tfidf_plus_vader
+centre,0.7260004957743514,logistic_regression,tfidf_plus_vader
+change,1.2257009153028031,logistic_regression,tfidf_plus_vader
+charge,1.2682425687742227,logistic_regression,tfidf_plus_vader
+charge month,0.2339440523572857,logistic_regression,tfidf_plus_vader
+chat,0.9031203915940792,logistic_regression,tfidf_plus_vader
+cheap,0.6265514780732745,logistic_regression,tfidf_plus_vader
+clear,-0.7369489446262797,logistic_regression,tfidf_plus_vader
+code,0.4615960567581818,logistic_regression,tfidf_plus_vader
+communication,0.4232723371721699,logistic_regression,tfidf_plus_vader
+complaint,-2.0478216399890075,logistic_regression,tfidf_plus_vader
+complete,0.33751133221633334,logistic_regression,tfidf_plus_vader
+confirmation,0.20857147725500716,logistic_regression,tfidf_plus_vader
+connection,-1.6559674217540636,logistic_regression,tfidf_plus_vader
+contact,-0.04572177053480171,logistic_regression,tfidf_plus_vader
+contract,0.8616632810662851,logistic_regression,tfidf_plus_vader
+conversation,0.26267900637195074,logistic_regression,tfidf_plus_vader
+correct,-0.3179904031816184,logistic_regression,tfidf_plus_vader
+cost,-0.24072215214401083,logistic_regression,tfidf_plus_vader
+country,0.28002089720258455,logistic_regression,tfidf_plus_vader
+coverage,-0.014305369270162545,logistic_regression,tfidf_plus_vader
+crap,0.2775292361664015,logistic_regression,tfidf_plus_vader
+credit,0.3989691610592838,logistic_regression,tfidf_plus_vader
+customer,0.31383682368337656,logistic_regression,tfidf_plus_vader
+customer care,0.44877051128380946,logistic_regression,tfidf_plus_vader
+customer service,0.34111706076815734,logistic_regression,tfidf_plus_vader
+customer support,0.3252972385185368,logistic_regression,tfidf_plus_vader
+customer year,0.28220240840923694,logistic_regression,tfidf_plus_vader
+data,-0.07560988255576295,logistic_regression,tfidf_plus_vader
+date,-0.9334739973550229,logistic_regression,tfidf_plus_vader
+datum,0.4279491981788353,logistic_regression,tfidf_plus_vader
+day,0.7095035746034101,logistic_regression,tfidf_plus_vader
+deal,0.2239757257485244,logistic_regression,tfidf_plus_vader
+debt,-0.38161839010391624,logistic_regression,tfidf_plus_vader
+department,0.39453996177655704,logistic_regression,tfidf_plus_vader
+detail,-0.1705070493094597,logistic_regression,tfidf_plus_vader
+device,-0.1073398012371042,logistic_regression,tfidf_plus_vader
+different,0.694820583986358,logistic_regression,tfidf_plus_vader
+difficult,0.4384503844322959,logistic_regression,tfidf_plus_vader
+disappointed,0.14857202805213246,logistic_regression,tfidf_plus_vader
+disconnect,0.1932776821341598,logistic_regression,tfidf_plus_vader
+discount,0.32861882620663124,logistic_regression,tfidf_plus_vader
+disgusting,0.364378280475049,logistic_regression,tfidf_plus_vader
+dollar,0.3917273852335745,logistic_regression,tfidf_plus_vader
+download,0.14356871168182894,logistic_regression,tfidf_plus_vader
+easy,-0.7775771532972879,logistic_regression,tfidf_plus_vader
+email,1.1090314775106946,logistic_regression,tfidf_plus_vader
+end,0.2192258369153196,logistic_regression,tfidf_plus_vader
+error,0.3439914870045811,logistic_regression,tfidf_plus_vader
+excellent,-1.4421237042630537,logistic_regression,tfidf_plus_vader
+expensive,0.3656047145580406,logistic_regression,tfidf_plus_vader
+experience,-0.23813169209692736,logistic_regression,tfidf_plus_vader
+extra,0.6440992144594622,logistic_regression,tfidf_plus_vader
+fact,-0.06367603614800514,logistic_regression,tfidf_plus_vader
+fair,0.25199154766020276,logistic_regression,tfidf_plus_vader
+family,0.0012335040302959724,logistic_regression,tfidf_plus_vader
+fault,0.554772105259938,logistic_regression,tfidf_plus_vader
+fee,0.7659861903477059,logistic_regression,tfidf_plus_vader
+fiber,0.15993553026144156,logistic_regression,tfidf_plus_vader
+fibre,-0.057623504251032166,logistic_regression,tfidf_plus_vader
+fine,0.5059211946871264,logistic_regression,tfidf_plus_vader
+free,-0.2492094996073419,logistic_regression,tfidf_plus_vader
+friend,0.15613579372458913,logistic_regression,tfidf_plus_vader
+friendly,-0.9753126886751328,logistic_regression,tfidf_plus_vader
+frustrating,0.2681552846367536,logistic_regression,tfidf_plus_vader
+frustration,0.37242960754476784,logistic_regression,tfidf_plus_vader
+gb,-0.8415196233671315,logistic_regression,tfidf_plus_vader
+good,-1.7559313374732786,logistic_regression,tfidf_plus_vader
+great,-2.364206626982853,logistic_regression,tfidf_plus_vader
+guy,-0.7028707389028153,logistic_regression,tfidf_plus_vader
+half,0.16055587040099226,logistic_regression,tfidf_plus_vader
+happy,-1.5378880339498229,logistic_regression,tfidf_plus_vader
+hard,0.06037275564132382,logistic_regression,tfidf_plus_vader
+help,0.079955670210136,logistic_regression,tfidf_plus_vader
+helpful,-1.9663792244819778,logistic_regression,tfidf_plus_vader
+high,-1.277071066298527,logistic_regression,tfidf_plus_vader
+hold,1.0581819852624426,logistic_regression,tfidf_plus_vader
+home,-0.057882997193819674,logistic_regression,tfidf_plus_vader
+horrible,0.5563876388729906,logistic_regression,tfidf_plus_vader
+hour,1.546417108761865,logistic_regression,tfidf_plus_vader
+hour phone,0.3524625840594501,logistic_regression,tfidf_plus_vader
+house,0.35594340271087427,logistic_regression,tfidf_plus_vader
+human,0.07932414750550816,logistic_regression,tfidf_plus_vader
+idea,0.3260188997998133,logistic_regression,tfidf_plus_vader
+impossible,0.5383345891299736,logistic_regression,tfidf_plus_vader
+information,0.5365393791822831,logistic_regression,tfidf_plus_vader
+interested,0.775576717818052,logistic_regression,tfidf_plus_vader
+internet,0.6180528875431764,logistic_regression,tfidf_plus_vader
+internet connection,-0.0351894757686607,logistic_regression,tfidf_plus_vader
+internet service,-0.30883693596119666,logistic_regression,tfidf_plus_vader
+invoice,0.15667224176917977,logistic_regression,tfidf_plus_vader
+isp,0.23797797740781648,logistic_regression,tfidf_plus_vader
+issue,-0.9148554108509663,logistic_regression,tfidf_plus_vader
+job,-0.05460787545370795,logistic_regression,tfidf_plus_vader
+joke,0.4398337782687352,logistic_regression,tfidf_plus_vader
+kind,-1.3863145402818393,logistic_regression,tfidf_plus_vader
+lack,0.20277209621698813,logistic_regression,tfidf_plus_vader
+lady,0.14024796877218962,logistic_regression,tfidf_plus_vader
+landline,0.685460758746985,logistic_regression,tfidf_plus_vader
+late,0.2885451883892064,logistic_regression,tfidf_plus_vader
+leave,0.8180004858098245,logistic_regression,tfidf_plus_vader
+life,0.5488114667356484,logistic_regression,tfidf_plus_vader
+line,-0.16496100936643118,logistic_regression,tfidf_plus_vader
+long,0.19470893764278488,logistic_regression,tfidf_plus_vader
+long time,0.3311568573933395,logistic_regression,tfidf_plus_vader
+lot,0.4586245294992545,logistic_regression,tfidf_plus_vader
+low,-0.24156703675662813,logistic_regression,tfidf_plus_vader
+loyal,0.3941761880039108,logistic_regression,tfidf_plus_vader
+loyal customer,0.31282557513410797,logistic_regression,tfidf_plus_vader
+man,-1.4124976511230585,logistic_regression,tfidf_plus_vader
+manager,-0.6053214047487774,logistic_regression,tfidf_plus_vader
+matter,0.3307996774824927,logistic_regression,tfidf_plus_vader
+member,-0.22087895244879274,logistic_regression,tfidf_plus_vader
+message,0.667323356373158,logistic_regression,tfidf_plus_vader
+min,0.5096032851342613,logistic_regression,tfidf_plus_vader
+minute,0.5380571180822414,logistic_regression,tfidf_plus_vader
+mistake,-0.34759082102408184,logistic_regression,tfidf_plus_vader
+mobile,0.6673087764113098,logistic_regression,tfidf_plus_vader
+mobile plan,0.4622931061387887,logistic_regression,tfidf_plus_vader
+modem,0.37594655501638574,logistic_regression,tfidf_plus_vader
+money,1.4457017840393498,logistic_regression,tfidf_plus_vader
+month,1.5173220681590989,logistic_regression,tfidf_plus_vader
+monthly,0.27155194217099976,logistic_regression,tfidf_plus_vader
+monthly plan,-0.17814898550932934,logistic_regression,tfidf_plus_vader
+morning,0.3243513969064585,logistic_regression,tfidf_plus_vader
+multiple,-0.056613103175062386,logistic_regression,tfidf_plus_vader
+multiple time,0.2299602098293741,logistic_regression,tfidf_plus_vader
+need,-0.2205533221342723,logistic_regression,tfidf_plus_vader
+network,0.46305176020728617,logistic_regression,tfidf_plus_vader
+nightmare,0.5829109937841146,logistic_regression,tfidf_plus_vader
+notice,0.12485935549197907,logistic_regression,tfidf_plus_vader
+notification,0.394985805121256,logistic_regression,tfidf_plus_vader
+number,1.2876141407055544,logistic_regression,tfidf_plus_vader
+office,-1.336951650662629,logistic_regression,tfidf_plus_vader
+old,-1.1421016375278479,logistic_regression,tfidf_plus_vader
+onenz,-0.10639893664830342,logistic_regression,tfidf_plus_vader
+online,-0.00568705490027851,logistic_regression,tfidf_plus_vader
+option,-0.5178976458336312,logistic_regression,tfidf_plus_vader
+order,0.637303898154399,logistic_regression,tfidf_plus_vader
+pack,0.3690484479910059,logistic_regression,tfidf_plus_vader
+package,0.30648173561141,logistic_regression,tfidf_plus_vader
+partner,0.2555666470661265,logistic_regression,tfidf_plus_vader
+past,-0.4210517969435696,logistic_regression,tfidf_plus_vader
+payment,1.0178690702530333,logistic_regression,tfidf_plus_vader
+people,0.8017138557790595,logistic_regression,tfidf_plus_vader
+period,-0.27105857794078714,logistic_regression,tfidf_plus_vader
+person,0.05408287503763931,logistic_regression,tfidf_plus_vader
+phone,-1.1804809171851482,logistic_regression,tfidf_plus_vader
+phone call,-0.0736673156708554,logistic_regression,tfidf_plus_vader
+phone number,0.42678134600462375,logistic_regression,tfidf_plus_vader
+phone plan,0.5191220255233125,logistic_regression,tfidf_plus_vader
+phone service,-0.5144288826123091,logistic_regression,tfidf_plus_vader
+place,0.19175291014564358,logistic_regression,tfidf_plus_vader
+plan,0.02595299294345221,logistic_regression,tfidf_plus_vader
+point,-0.035378873940037074,logistic_regression,tfidf_plus_vader
+policy,-1.0235851439319967,logistic_regression,tfidf_plus_vader
+poor,0.07017121447730573,logistic_regression,tfidf_plus_vader
+poor customer,0.13131607784379257,logistic_regression,tfidf_plus_vader
+poor service,0.29560319787397404,logistic_regression,tfidf_plus_vader
+possible,0.19703314958565984,logistic_regression,tfidf_plus_vader
+power,0.34991786796007046,logistic_regression,tfidf_plus_vader
+prepay,0.24142490881441725,logistic_regression,tfidf_plus_vader
+previous,0.42203857108745774,logistic_regression,tfidf_plus_vader
+price,0.1834582280340808,logistic_regression,tfidf_plus_vader
+problem,-1.2470655480149924,logistic_regression,tfidf_plus_vader
+process,-0.8615257795820087,logistic_regression,tfidf_plus_vader
+product,-1.0753965002962003,logistic_regression,tfidf_plus_vader
+promise,-0.05464125270423028,logistic_regression,tfidf_plus_vader
+proof,0.3377425326712497,logistic_regression,tfidf_plus_vader
+provider,0.9104390543416213,logistic_regression,tfidf_plus_vader
+purchase,0.4637244963214514,logistic_regression,tfidf_plus_vader
+quality,-0.17933117778719754,logistic_regression,tfidf_plus_vader
+question,0.5048643314613408,logistic_regression,tfidf_plus_vader
+rate,0.09587096412515257,logistic_regression,tfidf_plus_vader
+rating,0.2616001444859949,logistic_regression,tfidf_plus_vader
+real,0.15055962518785332,logistic_regression,tfidf_plus_vader
+reason,0.30216912305900023,logistic_regression,tfidf_plus_vader
+reception,0.0004927997199287451,logistic_regression,tfidf_plus_vader
+refund,0.5743895600716129,logistic_regression,tfidf_plus_vader
+reply,0.36598733968224,logistic_regression,tfidf_plus_vader
+representative,0.4732792978380882,logistic_regression,tfidf_plus_vader
+request,0.3001105837532179,logistic_regression,tfidf_plus_vader
+resolution,0.30459746624501205,logistic_regression,tfidf_plus_vader
+response,0.35186336501775173,logistic_regression,tfidf_plus_vader
+result,0.2515951935609325,logistic_regression,tfidf_plus_vader
+review,0.323942320317975,logistic_regression,tfidf_plus_vader
+ridiculous,0.43598534625414176,logistic_regression,tfidf_plus_vader
+right,-0.5749352186429137,logistic_regression,tfidf_plus_vader
+rip,0.5967479197124044,logistic_regression,tfidf_plus_vader
+router,0.4826900771477444,logistic_regression,tfidf_plus_vader
+rubbish,0.5601479283665365,logistic_regression,tfidf_plus_vader
+rude,0.7213966275520717,logistic_regression,tfidf_plus_vader
+sale,0.412256074976866,logistic_regression,tfidf_plus_vader
+scam,0.01877477136522879,logistic_regression,tfidf_plus_vader
+second,0.016584211067840565,logistic_regression,tfidf_plus_vader
+security,0.4269054908507097,logistic_regression,tfidf_plus_vader
+service bad,0.18818422343503444,logistic_regression,tfidf_plus_vader
+service customer,0.14680841525010663,logistic_regression,tfidf_plus_vader
+service phone,-0.039153545744772526,logistic_regression,tfidf_plus_vader
+service provider,-0.37743552356911925,logistic_regression,tfidf_plus_vader
+service team,0.1363275015951652,logistic_regression,tfidf_plus_vader
+shocking,0.24641324015252436,logistic_regression,tfidf_plus_vader
+shop,0.21439424022420905,logistic_regression,tfidf_plus_vader
+short,0.370478758355526,logistic_regression,tfidf_plus_vader
+sim,0.12594309463829562,logistic_regression,tfidf_plus_vader
+sim card,-0.4589076185974716,logistic_regression,tfidf_plus_vader
+simple,0.3156551047760907,logistic_regression,tfidf_plus_vader
+single,0.27622800458784336,logistic_regression,tfidf_plus_vader
+situation,-1.094724120588162,logistic_regression,tfidf_plus_vader
+slow,-0.017417777304128454,logistic_regression,tfidf_plus_vader
+solution,-0.03943535216027894,logistic_regression,tfidf_plus_vader
+speed,0.6523246261773746,logistic_regression,tfidf_plus_vader
+staff,-0.43988138326148013,logistic_regression,tfidf_plus_vader
+staff member,0.2817501691528905,logistic_regression,tfidf_plus_vader
+star,-0.04683514197666883,logistic_regression,tfidf_plus_vader
+start,-0.5158733432433117,logistic_regression,tfidf_plus_vader
+store,-0.9404981941589055,logistic_regression,tfidf_plus_vader
+stuff,0.47275202906393954,logistic_regression,tfidf_plus_vader
+stupid,0.11558821851729613,logistic_regression,tfidf_plus_vader
+support,1.870498409778386,logistic_regression,tfidf_plus_vader
+sure,-1.081453284706197,logistic_regression,tfidf_plus_vader
+switch,0.5042067916422998,logistic_regression,tfidf_plus_vader
+system,-1.6416950905389436,logistic_regression,tfidf_plus_vader
+team,-1.404225873575218,logistic_regression,tfidf_plus_vader
+tech,0.5833060721962912,logistic_regression,tfidf_plus_vader
+technical,-0.9021754026916899,logistic_regression,tfidf_plus_vader
+technician,0.180007083586277,logistic_regression,tfidf_plus_vader
+telco,0.37098063276854415,logistic_regression,tfidf_plus_vader
+term,0.5164177997368459,logistic_regression,tfidf_plus_vader
+terrible,0.8121418784352737,logistic_regression,tfidf_plus_vader
+terrible customer,0.5107624038319076,logistic_regression,tfidf_plus_vader
+terrible service,0.2305110939146648,logistic_regression,tfidf_plus_vader
+text,0.7481287967716591,logistic_regression,tfidf_plus_vader
+thank,-1.3942263692044679,logistic_regression,tfidf_plus_vader
+thing,0.8015159600232459,logistic_regression,tfidf_plus_vader
+time,1.4825927735331965,logistic_regression,tfidf_plus_vader
+time customer,0.5307506375221931,logistic_regression,tfidf_plus_vader
+today,0.12423065285447275,logistic_regression,tfidf_plus_vader
+total,0.31537169360592004,logistic_regression,tfidf_plus_vader
+training,0.5042367878655856,logistic_regression,tfidf_plus_vader
+travel,0.39580296740274523,logistic_regression,tfidf_plus_vader
+unable,0.3612073300124271,logistic_regression,tfidf_plus_vader
+unhelpful,0.2771583467772255,logistic_regression,tfidf_plus_vader
+unlimited,0.25221879765683136,logistic_regression,tfidf_plus_vader
+unprofessional,0.33342178035710596,logistic_regression,tfidf_plus_vader
+update,0.4034595091025015,logistic_regression,tfidf_plus_vader
+usage,0.11849354561010485,logistic_regression,tfidf_plus_vader
+useless,0.9087033854076426,logistic_regression,tfidf_plus_vader
+value,0.2414429911577751,logistic_regression,tfidf_plus_vader
+wait,-0.06694356296232261,logistic_regression,tfidf_plus_vader
+waste,0.3348736314935147,logistic_regression,tfidf_plus_vader
+way,0.2731733080686867,logistic_regression,tfidf_plus_vader
+website,-0.5131188466422417,logistic_regression,tfidf_plus_vader
+week,0.7929356061172491,logistic_regression,tfidf_plus_vader
+well,0.5690270376928138,logistic_regression,tfidf_plus_vader
+wifi,-0.8507251586345446,logistic_regression,tfidf_plus_vader
+wireless,-1.087377251248667,logistic_regression,tfidf_plus_vader
+word,0.3948123809708936,logistic_regression,tfidf_plus_vader
+work,-0.3494302981485338,logistic_regression,tfidf_plus_vader
+world,0.319643683531754,logistic_regression,tfidf_plus_vader
+worth,0.47208325919653515,logistic_regression,tfidf_plus_vader
+wrong,-0.2392129684928111,logistic_regression,tfidf_plus_vader
+year,-1.0085734958567332,logistic_regression,tfidf_plus_vader
+yesterday,0.4922943276894568,logistic_regression,tfidf_plus_vader
+vader_neg,2.0536845178654684,logistic_regression,tfidf_plus_vader
+vader_neu,1.2238869237367105,logistic_regression,tfidf_plus_vader
+vader_pos,-3.252928051179482,logistic_regression,tfidf_plus_vader
+vader_compound,-1.9498307624416207,logistic_regression,tfidf_plus_vader
+area,0.029104648298468486,decision_tree,tfidf_plus_vader
+charge,0.009887798992996213,decision_tree,tfidf_plus_vader
+credit,0.009653841141349536,decision_tree,tfidf_plus_vader
+customer,0.005608377355634833,decision_tree,tfidf_plus_vader
+date,0.020256415244011262,decision_tree,tfidf_plus_vader
+different,0.012186163266576431,decision_tree,tfidf_plus_vader
+kind,0.02389987299898346,decision_tree,tfidf_plus_vader
+long,0.010073695878670174,decision_tree,tfidf_plus_vader
+man,0.025302508946765074,decision_tree,tfidf_plus_vader
+old,0.007036183910361511,decision_tree,tfidf_plus_vader
+people,4.1341543209055063e-16,decision_tree,tfidf_plus_vader
+process,0.022542360622421515,decision_tree,tfidf_plus_vader
+shop,0.014820174806365851,decision_tree,tfidf_plus_vader
+store,3.8412583701793325e-18,decision_tree,tfidf_plus_vader
+technical,0.01499374624305218,decision_tree,tfidf_plus_vader
+value,0.004102426775716518,decision_tree,tfidf_plus_vader
+vader_neg,0.048931567035736256,decision_tree,tfidf_plus_vader
+vader_neu,0.02816677526415166,decision_tree,tfidf_plus_vader
+vader_pos,0.10523974648492142,decision_tree,tfidf_plus_vader
+vader_compound,0.6081936967338173,decision_tree,tfidf_plus_vader
+able,-1.0494993399177097,logistic_regression,tfidf_only
+absolute,-1.4299368501828524,logistic_regression,tfidf_only
+account,1.3749952234589287,logistic_regression,tfidf_only
+action,0.4488683554846329,logistic_regression,tfidf_only
+additional,0.2953240080484992,logistic_regression,tfidf_only
+address,-0.29399140829081294,logistic_regression,tfidf_only
+advice,0.7867019724591359,logistic_regression,tfidf_only
+agent,0.8600811404769472,logistic_regression,tfidf_only
+answer,0.6845167239050726,logistic_regression,tfidf_only
+app,1.2071279786378528,logistic_regression,tfidf_only
+appalling,0.7407571215378848,logistic_regression,tfidf_only
+area,-1.7148614323406197,logistic_regression,tfidf_only
+available,0.39247398171324405,logistic_regression,tfidf_only
+awful,0.923894544765802,logistic_regression,tfidf_only
+bad,2.5921797537917204,logistic_regression,tfidf_only
+bad customer,1.061774484807273,logistic_regression,tfidf_only
+bad experience,-0.0608788725161036,logistic_regression,tfidf_only
+bad service,0.7908672510831729,logistic_regression,tfidf_only
+balance,0.3936606456089556,logistic_regression,tfidf_only
+bank,0.7010186796105368,logistic_regression,tfidf_only
+basic,-0.0908437037547419,logistic_regression,tfidf_only
+big,-0.36359446223421976,logistic_regression,tfidf_only
+bill,0.5672957938375994,logistic_regression,tfidf_only
+billing,0.03972139329746222,logistic_regression,tfidf_only
+branch,0.3155335248965635,logistic_regression,tfidf_only
+broadband,0.3495753372851571,logistic_regression,tfidf_only
+business,-0.35178640861176796,logistic_regression,tfidf_only
+call,0.18084689605316678,logistic_regression,tfidf_only
+cancel,1.3180024404509803,logistic_regression,tfidf_only
+cancel account,0.22878823420081926,logistic_regression,tfidf_only
+cancel plan,0.28562850505945075,logistic_regression,tfidf_only
+cancel service,0.2062050913728609,logistic_regression,tfidf_only
+cancellation,0.46117086606285834,logistic_regression,tfidf_only
+card,-0.02168920697079955,logistic_regression,tfidf_only
+care,0.375528015517483,logistic_regression,tfidf_only
+case,0.5945806692409177,logistic_regression,tfidf_only
+center,0.1245703967307488,logistic_regression,tfidf_only
+centre,0.8973995248135243,logistic_regression,tfidf_only
+change,1.2509882264497965,logistic_regression,tfidf_only
+charge,1.6142043059390156,logistic_regression,tfidf_only
+charge month,0.2902572431826438,logistic_regression,tfidf_only
+chat,0.8686431963294999,logistic_regression,tfidf_only
+cheap,0.8437564590227795,logistic_regression,tfidf_only
+clear,-1.6287057708670223,logistic_regression,tfidf_only
+code,0.6437080063746672,logistic_regression,tfidf_only
+communication,0.5717256793620746,logistic_regression,tfidf_only
+complaint,-0.9594840636757599,logistic_regression,tfidf_only
+complete,0.5070558090399206,logistic_regression,tfidf_only
+confirmation,0.19058071734885956,logistic_regression,tfidf_only
+connection,-0.7349638078487746,logistic_regression,tfidf_only
+contact,-0.4508117450204317,logistic_regression,tfidf_only
+contract,0.8446831168200364,logistic_regression,tfidf_only
+conversation,0.09732874543749598,logistic_regression,tfidf_only
+correct,-0.23907490114302338,logistic_regression,tfidf_only
+cost,-0.14632807891018199,logistic_regression,tfidf_only
+country,0.2751612614711377,logistic_regression,tfidf_only
+coverage,-0.4487451129667735,logistic_regression,tfidf_only
+crap,0.7900247199542246,logistic_regression,tfidf_only
+credit,0.6075273002199182,logistic_regression,tfidf_only
+customer,0.4742657678861672,logistic_regression,tfidf_only
+customer care,0.4027491197263857,logistic_regression,tfidf_only
+customer service,0.4529667624300875,logistic_regression,tfidf_only
+customer support,0.25725252242785335,logistic_regression,tfidf_only
+customer year,0.3671567344885137,logistic_regression,tfidf_only
+data,-0.28230598868468876,logistic_regression,tfidf_only
+date,-0.5532112392587017,logistic_regression,tfidf_only
+datum,0.6244149412162016,logistic_regression,tfidf_only
+day,0.8809554102266044,logistic_regression,tfidf_only
+deal,0.11701284028101769,logistic_regression,tfidf_only
+debt,0.00682850175040924,logistic_regression,tfidf_only
+department,0.653696579611274,logistic_regression,tfidf_only
+detail,-0.5579755798372071,logistic_regression,tfidf_only
+device,-0.354316104089164,logistic_regression,tfidf_only
+different,0.6912336760317283,logistic_regression,tfidf_only
+difficult,0.6399084382066743,logistic_regression,tfidf_only
+disappointed,0.40716474149211124,logistic_regression,tfidf_only
+disconnect,0.5595266329365287,logistic_regression,tfidf_only
+discount,0.7829833129768367,logistic_regression,tfidf_only
+disgusting,0.7567625803730855,logistic_regression,tfidf_only
+dollar,0.6395831827459424,logistic_regression,tfidf_only
+download,0.3158481564590809,logistic_regression,tfidf_only
+easy,-1.8543176632291791,logistic_regression,tfidf_only
+email,1.5991761146699628,logistic_regression,tfidf_only
+end,0.20614649040022193,logistic_regression,tfidf_only
+error,0.626819148864681,logistic_regression,tfidf_only
+excellent,-2.0760220334470305,logistic_regression,tfidf_only
+expensive,0.45954135293637716,logistic_regression,tfidf_only
+experience,-0.8630647872850649,logistic_regression,tfidf_only
+extra,0.745317528605095,logistic_regression,tfidf_only
+fact,-0.3000833312218181,logistic_regression,tfidf_only
+fair,-0.40920451754624526,logistic_regression,tfidf_only
+family,-0.6232129579052899,logistic_regression,tfidf_only
+fault,0.830834515329945,logistic_regression,tfidf_only
+fee,1.0328030216065387,logistic_regression,tfidf_only
+fiber,0.46208382223062267,logistic_regression,tfidf_only
+fibre,-0.05980208524255066,logistic_regression,tfidf_only
+fine,0.6589808074548128,logistic_regression,tfidf_only
+free,-1.7014560566715282,logistic_regression,tfidf_only
+friend,-0.26296184031010805,logistic_regression,tfidf_only
+friendly,-2.6551558328856655,logistic_regression,tfidf_only
+frustrating,0.699265069683003,logistic_regression,tfidf_only
+frustration,0.5362099059715182,logistic_regression,tfidf_only
+gb,-0.6145184090315475,logistic_regression,tfidf_only
+good,-3.3802342584082514,logistic_regression,tfidf_only
+great,-4.02832232308342,logistic_regression,tfidf_only
+guy,-0.9598786054862798,logistic_regression,tfidf_only
+half,0.25517255504181674,logistic_regression,tfidf_only
+happy,-2.8193835486175853,logistic_regression,tfidf_only
+hard,0.3179725894159617,logistic_regression,tfidf_only
+help,-0.31477143717372935,logistic_regression,tfidf_only
+helpful,-3.644798885752947,logistic_regression,tfidf_only
+high,-0.37419593898373693,logistic_regression,tfidf_only
+hold,1.2452016435163789,logistic_regression,tfidf_only
+home,0.12295186403636515,logistic_regression,tfidf_only
+horrible,1.2746286308431882,logistic_regression,tfidf_only
+hour,1.6857933053682972,logistic_regression,tfidf_only
+hour phone,0.3094034109386462,logistic_regression,tfidf_only
+house,0.5742762835484931,logistic_regression,tfidf_only
+human,0.047287010764401935,logistic_regression,tfidf_only
+idea,0.5799689712269653,logistic_regression,tfidf_only
+impossible,0.7763203574921409,logistic_regression,tfidf_only
+information,0.7963289641428509,logistic_regression,tfidf_only
+interested,0.767448360927244,logistic_regression,tfidf_only
+internet,1.1019707937988412,logistic_regression,tfidf_only
+internet connection,-0.21577621849701434,logistic_regression,tfidf_only
+internet service,-0.07499312218745714,logistic_regression,tfidf_only
+invoice,0.3921955184050656,logistic_regression,tfidf_only
+isp,0.3913895528351507,logistic_regression,tfidf_only
+issue,-1.509980714763652,logistic_regression,tfidf_only
+job,0.1411800235786276,logistic_regression,tfidf_only
+joke,0.5103279782082266,logistic_regression,tfidf_only
+kind,-1.4322577797997682,logistic_regression,tfidf_only
+lack,0.5966383636145463,logistic_regression,tfidf_only
+lady,0.09623834877672736,logistic_regression,tfidf_only
+landline,0.7751673145682988,logistic_regression,tfidf_only
+late,0.3058908336880248,logistic_regression,tfidf_only
+leave,1.0183073471722357,logistic_regression,tfidf_only
+life,0.45191059050363575,logistic_regression,tfidf_only
+line,-0.657351263812486,logistic_regression,tfidf_only
+long,0.03271075610084534,logistic_regression,tfidf_only
+long time,0.4271681218633607,logistic_regression,tfidf_only
+lot,0.39443802318957055,logistic_regression,tfidf_only
+low,-0.3618174148026609,logistic_regression,tfidf_only
+loyal,0.2714019311709844,logistic_regression,tfidf_only
+loyal customer,0.22021694990056437,logistic_regression,tfidf_only
+man,-0.9387052321831071,logistic_regression,tfidf_only
+manager,-0.13058768912204705,logistic_regression,tfidf_only
+matter,0.30455981014619826,logistic_regression,tfidf_only
+member,-0.42325958980896905,logistic_regression,tfidf_only
+message,0.6554997984445984,logistic_regression,tfidf_only
+min,0.9710633560410543,logistic_regression,tfidf_only
+minute,0.09036009994552048,logistic_regression,tfidf_only
+mistake,0.07600966639515638,logistic_regression,tfidf_only
+mobile,0.3660748666072567,logistic_regression,tfidf_only
+mobile plan,0.28695894142506634,logistic_regression,tfidf_only
+modem,0.5277091422956502,logistic_regression,tfidf_only
+money,1.7974972321088987,logistic_regression,tfidf_only
+month,1.5588453337608565,logistic_regression,tfidf_only
+monthly,0.005579105546421222,logistic_regression,tfidf_only
+monthly plan,-0.21285904856416424,logistic_regression,tfidf_only
+morning,0.1974585436677293,logistic_regression,tfidf_only
+multiple,0.4783917621341705,logistic_regression,tfidf_only
+multiple time,0.41287816079899875,logistic_regression,tfidf_only
+need,-0.7221845113859314,logistic_regression,tfidf_only
+network,0.8499445320704225,logistic_regression,tfidf_only
+nightmare,0.756331450572328,logistic_regression,tfidf_only
+notice,0.3018438158770752,logistic_regression,tfidf_only
+notification,0.4599646091776324,logistic_regression,tfidf_only
+number,1.1624150422257704,logistic_regression,tfidf_only
+office,-0.2325392716479569,logistic_regression,tfidf_only
+old,-0.6392217142579243,logistic_regression,tfidf_only
+onenz,-0.3012309075107518,logistic_regression,tfidf_only
+online,-0.50074340723732,logistic_regression,tfidf_only
+option,-0.6849972231972451,logistic_regression,tfidf_only
+order,0.7973782160038679,logistic_regression,tfidf_only
+pack,0.49620627737216805,logistic_regression,tfidf_only
+package,0.47944371713344897,logistic_regression,tfidf_only
+partner,0.2173028486322595,logistic_regression,tfidf_only
+past,-0.4943679778103391,logistic_regression,tfidf_only
+payment,1.5306683030789332,logistic_regression,tfidf_only
+people,0.6108146756098571,logistic_regression,tfidf_only
+period,-0.6254878377302177,logistic_regression,tfidf_only
+person,0.7803720296140503,logistic_regression,tfidf_only
+phone,-0.7061271482282593,logistic_regression,tfidf_only
+phone call,-0.23101894419605948,logistic_regression,tfidf_only
+phone number,0.5812980733132422,logistic_regression,tfidf_only
+phone plan,0.3570248208250324,logistic_regression,tfidf_only
+phone service,-0.8586315076307279,logistic_regression,tfidf_only
+place,0.14457094888077374,logistic_regression,tfidf_only
+plan,0.07629487330615393,logistic_regression,tfidf_only
+point,-0.3378273611991318,logistic_regression,tfidf_only
+policy,-0.4952889166121624,logistic_regression,tfidf_only
+poor,0.9818213509176839,logistic_regression,tfidf_only
+poor customer,0.5297057206077941,logistic_regression,tfidf_only
+poor service,0.4410003651257357,logistic_regression,tfidf_only
+possible,0.3637463134319371,logistic_regression,tfidf_only
+power,0.6891944664863814,logistic_regression,tfidf_only
+prepay,0.22739529209684833,logistic_regression,tfidf_only
+previous,0.5690748919207499,logistic_regression,tfidf_only
+price,-0.1834345378427466,logistic_regression,tfidf_only
+problem,-1.1539578410652962,logistic_regression,tfidf_only
+process,-0.7275709445108215,logistic_regression,tfidf_only
+product,-1.5050592572572268,logistic_regression,tfidf_only
+promise,-0.28113686065597543,logistic_regression,tfidf_only
+proof,0.2940554704647296,logistic_regression,tfidf_only
+provider,1.0177813177000063,logistic_regression,tfidf_only
+purchase,0.591084503205864,logistic_regression,tfidf_only
+quality,-0.20856175376598943,logistic_regression,tfidf_only
+question,0.2535980185507739,logistic_regression,tfidf_only
+rate,0.01439292604347494,logistic_regression,tfidf_only
+rating,0.03564627829910267,logistic_regression,tfidf_only
+real,0.3797580467930144,logistic_regression,tfidf_only
+reason,0.44421567227748465,logistic_regression,tfidf_only
+reception,-0.22470682224981298,logistic_regression,tfidf_only
+refund,0.6495902388714219,logistic_regression,tfidf_only
+reply,0.5527725000703597,logistic_regression,tfidf_only
+representative,0.6280456552043369,logistic_regression,tfidf_only
+request,0.5331032959901888,logistic_regression,tfidf_only
+resolution,0.35115418954787975,logistic_regression,tfidf_only
+response,0.6023764137555905,logistic_regression,tfidf_only
+result,0.3903766788779397,logistic_regression,tfidf_only
+review,0.5372115151506847,logistic_regression,tfidf_only
+ridiculous,0.6608904181160118,logistic_regression,tfidf_only
+right,-0.46547743831248317,logistic_regression,tfidf_only
+rip,0.7487536874760448,logistic_regression,tfidf_only
+router,0.6547491651927762,logistic_regression,tfidf_only
+rubbish,0.6545685595610634,logistic_regression,tfidf_only
+rude,1.5728174857216497,logistic_regression,tfidf_only
+sale,0.39797572599923703,logistic_regression,tfidf_only
+scam,0.28856587251910176,logistic_regression,tfidf_only
+second,-0.22868546959584943,logistic_regression,tfidf_only
+security,0.4693255511003379,logistic_regression,tfidf_only
+service bad,0.5907301064866178,logistic_regression,tfidf_only
+service customer,0.056880658464005356,logistic_regression,tfidf_only
+service phone,-0.1821425844886128,logistic_regression,tfidf_only
+service provider,-0.06135235630833782,logistic_regression,tfidf_only
+service team,0.35020438744717397,logistic_regression,tfidf_only
+shocking,0.7429732843437579,logistic_regression,tfidf_only
+shop,0.0027483993163616256,logistic_regression,tfidf_only
+short,0.16741012245231962,logistic_regression,tfidf_only
+sim,0.22364912862287611,logistic_regression,tfidf_only
+sim card,-0.02803517921920732,logistic_regression,tfidf_only
+simple,0.25137343168855764,logistic_regression,tfidf_only
+single,0.38909067830820043,logistic_regression,tfidf_only
+situation,-1.1515150885485825,logistic_regression,tfidf_only
+slow,0.3445121489114301,logistic_regression,tfidf_only
+solution,-0.4556085042045793,logistic_regression,tfidf_only
+speed,0.274465036174699,logistic_regression,tfidf_only
+staff,-0.05061693013453865,logistic_regression,tfidf_only
+staff member,0.11580185011304009,logistic_regression,tfidf_only
+star,0.4093658159123288,logistic_regression,tfidf_only
+start,-0.46711699225041986,logistic_regression,tfidf_only
+store,-1.6702640031009073,logistic_regression,tfidf_only
+stuff,0.532902000660869,logistic_regression,tfidf_only
+stupid,0.4939203715766716,logistic_regression,tfidf_only
+support,1.4826140785297575,logistic_regression,tfidf_only
+sure,-1.7845421141285598,logistic_regression,tfidf_only
+switch,0.42950030911785403,logistic_regression,tfidf_only
+system,-1.0465734620815486,logistic_regression,tfidf_only
+team,-1.5139601864141607,logistic_regression,tfidf_only
+tech,0.7119705789066504,logistic_regression,tfidf_only
+technical,-1.1930033498636021,logistic_regression,tfidf_only
+technician,0.07748232953732927,logistic_regression,tfidf_only
+telco,0.31886341275145136,logistic_regression,tfidf_only
+term,0.4496076653679751,logistic_regression,tfidf_only
+terrible,1.9055746727631109,logistic_regression,tfidf_only
+terrible customer,0.6745097653482701,logistic_regression,tfidf_only
+terrible service,0.37543262840194513,logistic_regression,tfidf_only
+text,0.9765186173746802,logistic_regression,tfidf_only
+thank,-2.6969399926268998,logistic_regression,tfidf_only
+thing,0.9271876685594479,logistic_regression,tfidf_only
+time,1.2015875368565123,logistic_regression,tfidf_only
+time customer,0.5659449417286767,logistic_regression,tfidf_only
+today,-0.28804004250221904,logistic_regression,tfidf_only
+total,0.49940966508416007,logistic_regression,tfidf_only
+training,0.6310593394202995,logistic_regression,tfidf_only
+travel,0.40589254119108764,logistic_regression,tfidf_only
+unable,0.31724053841115823,logistic_regression,tfidf_only
+unhelpful,0.4123478383666632,logistic_regression,tfidf_only
+unlimited,0.10473874756957435,logistic_regression,tfidf_only
+unprofessional,0.5338472038132852,logistic_regression,tfidf_only
+update,0.3585551374320904,logistic_regression,tfidf_only
+usage,0.22533634986460285,logistic_regression,tfidf_only
+useless,1.8075138133506992,logistic_regression,tfidf_only
+value,0.08704700058139313,logistic_regression,tfidf_only
+wait,-0.0034979194620587306,logistic_regression,tfidf_only
+waste,0.5919918575905948,logistic_regression,tfidf_only
+way,0.294933008727248,logistic_regression,tfidf_only
+website,0.2649449119861267,logistic_regression,tfidf_only
+week,1.151729198774933,logistic_regression,tfidf_only
+well,-0.6783834864960414,logistic_regression,tfidf_only
+wifi,-0.01772800146372016,logistic_regression,tfidf_only
+wireless,-0.6059473520786589,logistic_regression,tfidf_only
+word,0.4448601691502193,logistic_regression,tfidf_only
+work,-0.4227797905636175,logistic_regression,tfidf_only
+world,0.4907036897854376,logistic_regression,tfidf_only
+worth,0.5413770516460075,logistic_regression,tfidf_only
+wrong,0.3011496359520982,logistic_regression,tfidf_only
+year,-0.8142284647929314,logistic_regression,tfidf_only
+yesterday,0.5073269502546492,logistic_regression,tfidf_only
+bad,0.0411322929519365,decision_tree,tfidf_only
+change,0.007646428372937272,decision_tree,tfidf_only
+credit,0.014844974408602074,decision_tree,tfidf_only
+friendly,0.10681397549698204,decision_tree,tfidf_only
+good,0.18006993011495573,decision_tree,tfidf_only
+great,0.2354461112785962,decision_tree,tfidf_only
+happy,0.09770485089631782,decision_tree,tfidf_only
+helpful,0.2488987235535777,decision_tree,tfidf_only
+hour,0.007801789229211531,decision_tree,tfidf_only
+issue,6.586357595046633e-17,decision_tree,tfidf_only
+long time,0.004061887700361361,decision_tree,tfidf_only
+minute,0.011786521086873926,decision_tree,tfidf_only
+month,0.03167384467289432,decision_tree,tfidf_only
+online,2.54269796890694e-15,decision_tree,tfidf_only
+option,1.3172715190093266e-16,decision_tree,tfidf_only
+rude,0.008022428962770724,decision_tree,tfidf_only
+unprofessional,0.004096241273980044,decision_tree,tfidf_only

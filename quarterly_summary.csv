@@ -1,0 +1,70 @@
+quarter,source,provider,review_count,avg_vader_compound,pct_high_risk
+2023Q2,Geekzone,One NZ,9,0.664,
+2023Q2,Trustpilot,2degrees,23,-0.103,95.7
+2023Q2,Trustpilot,Spark,10,-0.41,100.0
+2023Q3,Geekzone,2degrees,7,0.332,
+2023Q3,Geekzone,One NZ,5,0.749,
+2023Q3,Trustpilot,2degrees,71,-0.29,93.0
+2023Q3,Trustpilot,One NZ,6,-0.096,100.0
+2023Q3,Trustpilot,Spark,22,-0.383,95.5
+2023Q4,Geekzone,2degrees,23,0.223,
+2023Q4,Geekzone,One NZ,19,0.327,
+2023Q4,Geekzone,Spark,17,0.401,
+2023Q4,Trustpilot,2degrees,64,-0.343,93.8
+2023Q4,Trustpilot,One NZ,46,-0.08,78.3
+2023Q4,Trustpilot,Spark,28,-0.093,85.7
+2024Q1,Geekzone,2degrees,16,0.196,
+2024Q1,Geekzone,One NZ,9,0.138,
+2024Q1,Geekzone,Spark,9,0.118,
+2024Q1,Trustpilot,2degrees,49,-0.19,87.8
+2024Q1,Trustpilot,One NZ,40,-0.352,87.5
+2024Q1,Trustpilot,Spark,25,-0.297,96.0
+2024Q2,Geekzone,2degrees,12,0.244,
+2024Q2,Geekzone,Spark,17,0.579,
+2024Q2,Trustpilot,2degrees,54,-0.339,94.4
+2024Q2,Trustpilot,One NZ,49,-0.403,91.8
+2024Q2,Trustpilot,Spark,25,-0.109,96.0
+2024Q3,Geekzone,2degrees,4,0.144,
+2024Q3,Geekzone,One NZ,36,0.266,
+2024Q3,Geekzone,Spark,16,0.549,
+2024Q3,Trustpilot,2degrees,41,-0.217,90.2
+2024Q3,Trustpilot,One NZ,41,-0.367,95.1
+2024Q3,Trustpilot,Spark,24,-0.123,95.8
+2024Q4,Geekzone,2degrees,1,-0.81,
+2024Q4,Geekzone,Spark,29,0.663,
+2024Q4,Trustpilot,2degrees,52,-0.223,86.5
+2024Q4,Trustpilot,One NZ,55,-0.322,87.3
+2024Q4,Trustpilot,Spark,30,-0.03,90.0
+2025Q1,Geekzone,2degrees,20,0.384,
+2025Q1,Geekzone,One NZ,20,0.494,
+2025Q1,Geekzone,Spark,10,0.332,
+2025Q1,Trustpilot,2degrees,65,-0.196,92.3
+2025Q1,Trustpilot,One NZ,60,-0.369,93.3
+2025Q1,Trustpilot,Spark,33,-0.143,90.9
+2025Q2,Geekzone,2degrees,5,0.761,
+2025Q2,Geekzone,Spark,17,0.368,
+2025Q2,Trustpilot,2degrees,43,-0.361,95.3
+2025Q2,Trustpilot,One NZ,45,-0.261,84.4
+2025Q2,Trustpilot,Spark,36,-0.32,88.9
+2025Q3,Geekzone,2degrees,17,-0.174,
+2025Q3,Geekzone,One NZ,20,0.348,
+2025Q3,Geekzone,Spark,11,0.369,
+2025Q3,Trustpilot,2degrees,46,-0.242,84.8
+2025Q3,Trustpilot,One NZ,43,-0.257,93.0
+2025Q3,Trustpilot,Spark,16,-0.035,100.0
+2025Q4,Geekzone,2degrees,6,0.272,
+2025Q4,Geekzone,One NZ,8,0.436,
+2025Q4,Geekzone,Spark,17,0.154,
+2025Q4,Trustpilot,2degrees,33,-0.316,93.9
+2025Q4,Trustpilot,One NZ,38,-0.147,86.8
+2025Q4,Trustpilot,Spark,24,-0.472,95.8
+2026Q1,Geekzone,2degrees,21,0.022,
+2026Q1,Trustpilot,2degrees,28,-0.255,96.4
+2026Q1,Trustpilot,One NZ,120,0.059,60.0
+2026Q1,Trustpilot,Spark,21,-0.182,95.2
+2026Q2,Geekzone,2degrees,12,0.418,
+2026Q2,Geekzone,One NZ,2,0.875,
+2026Q2,Geekzone,Spark,12,0.367,
+2026Q2,Trustpilot,2degrees,21,-0.192,85.7
+2026Q2,Trustpilot,One NZ,53,-0.195,88.7
+2026Q2,Trustpilot,Spark,22,-0.141,95.5

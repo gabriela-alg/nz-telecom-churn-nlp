@@ -1,0 +1,5 @@
+model,feature_set,roc_auc,low_risk_precision,low_risk_recall,low_risk_f1
+logistic_regression,tfidf_plus_vader,0.957,0.441,0.839,0.578
+decision_tree,tfidf_plus_vader,0.851,0.533,0.774,0.632
+logistic_regression,tfidf_only,0.935,0.564,0.71,0.629
+decision_tree,tfidf_only,0.774,0.487,0.613,0.543
