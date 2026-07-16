@@ -1,4 +1,4 @@
-# NZ Telecom Churn Risk — NLP and Machine Learning on Public Customer Reviews
+# NZ Telecom Churn Risk - NLP and Machine Learning on Public Customer Reviews
 
 This project applies Natural Language Processing and machine learning to public customer feedback from New Zealand telecommunications providers, with the goal of identifying churn risk drivers without access to internal customer data. It was developed as an Applied Project for a Master of Business Informatics at ICL Graduate Business School, New Zealand (2026).
 
