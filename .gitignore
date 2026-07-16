@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Project-specific: raw data and database
+telecom_reviews.db
+reviews.csv
+reviews_processed.csv
+109634_GabrielaGoulart_RAW_20260717.csv
